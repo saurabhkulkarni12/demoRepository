@@ -1,4 +1,6 @@
 Saurabh Pradeep Kulkarni
 BEIT
-Nashik
-this is from master
+NashikD
+Diploma in Big Data Analytics
+Pune
+This is added at bugfix branch
